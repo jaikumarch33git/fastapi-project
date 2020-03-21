@@ -19,6 +19,7 @@ Run the following commands to  ``poetry``: ::
 
     git clone https://github.com/jaikumarch33git/fastapi-project
     cd fastapi-project
+    pip install poetry
     poetry install
 
 To run the web application in debug use::
