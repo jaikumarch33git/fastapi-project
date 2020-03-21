@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "Demo"
+version = "0.1.0"
+description = "Backend created with help of FastAPI"
+authors = ["jaikumar"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+fastapi = "^0.44.1"
+uvicorn = "^0.9.1"
+motor = "^2.0"
+passlib = {version = "^1.7",extras = ["bcrypt"]}
+pyjwt = "^1.7"
+python-slugify = "^3.0"
+Unidecode = "^1.0"
+python-dotenv = "^0.10.1"
+databases = "^0.2.1"
+redis = "^3.3"
+aiohttp = "^3.6"
+python-multipart = "^0.0.5"
+urllib3 = "^1.25.7"
+aiobotocore = "^0.11.1"
+pillow = "^7.0.0"
+aiosmtplib = "^1.1.2"
+openpyxl = "^3.0.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
