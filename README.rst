@@ -17,7 +17,7 @@ Quickstart
 
 Run the following commands to  ``poetry``: ::
 
-    git clone https://github.com/neerajshukla1911/fastapi-project
+    git clone https://github.com/jaikumarch33git/fastapi-project
     cd fastapi-project
     poetry install
 
