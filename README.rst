@@ -3,7 +3,7 @@
 
 What for
 ----------
-Demo project build with FastAPI
+Simple web backend based on FastAPI
 
 
 Features
