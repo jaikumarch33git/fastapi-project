@@ -41,7 +41,7 @@ pexpect==4.8.0
 Pillow>=8.1.1
 pipenv==2018.11.26
 pkginfo==1.5.0.1
-poetry==1.0.5
+poetry==1.1.9
 ptyprocess==0.6.0
 pycparser==2.20
 pydantic==1.4
