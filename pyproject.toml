@@ -11,7 +11,7 @@ fastapi = "^0.44.1"
 uvicorn = "^0.9.1"
 motor = "^2.0"
 passlib = {version = "^1.7",extras = ["bcrypt"]}
-pyjwt = "^1.7"
+pyjwt = "^2.4"
 python-slugify = "^3.0"
 Unidecode = "^1.0"
 python-dotenv = "^0.10.1"
